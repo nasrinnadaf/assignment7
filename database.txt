@@ -1,0 +1,9 @@
+words = [ 
+    { "english" : "apple "   , "persian" = "sib" } , 
+    { "english " : "ornge "  , "persian" = "porteqal"} , 
+    { "english " : "tree "   , "persian" = "derakht" } , 
+    { "english " : "pen "    , "persian" = "khodkar" } , 
+    { "english " : "weather" , "persian" = "hava" } , 
+    { "english " : "hand "   , "persian" = "dast" } , 
+
+]
